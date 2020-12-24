@@ -1,0 +1,9 @@
+C:\Workspace\Assessments\Navtech.OMS\Navtech.OMS.Entities\bin\Debug\Navtech.OMS.Entities.dll
+C:\Workspace\Assessments\Navtech.OMS\Navtech.OMS.Entities\bin\Debug\Navtech.OMS.Entities.pdb
+C:\Workspace\Assessments\Navtech.OMS\Navtech.OMS.Entities\obj\Debug\Navtech.OMS.Entities.csprojAssemblyReference.cache
+C:\Workspace\Assessments\Navtech.OMS\Navtech.OMS.Entities\obj\Debug\Navtech.OMS.Entities.csproj.CoreCompileInputs.cache
+C:\Workspace\Assessments\Navtech.OMS\Navtech.OMS.Entities\obj\Debug\Navtech.OMS.Entities.dll
+C:\Workspace\Assessments\Navtech.OMS\Navtech.OMS.Entities\obj\Debug\Navtech.OMS.Entities.pdb
+C:\Workspace\Assessments\Navtech.OMS\Navtech.OMS.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\Assessments\Navtech.OMS\Navtech.OMS.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\Assessments\Navtech.OMS\Navtech.OMS.Entities\obj\Debug\Navtech.OMS.Entities.csproj.CopyComplete
